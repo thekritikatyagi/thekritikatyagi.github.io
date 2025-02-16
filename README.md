@@ -1,4 +1,4 @@
-# Android and IOS Application Developer
+# Developer Android App | Flutter App
 
 #### Technical Skills: Python, JAVA, FLUTTER, DART, FIREBASE, HTML5, CSS, UI/UX DESIGN, ANDROID STUDIO, VISUAL STUDIO
 
