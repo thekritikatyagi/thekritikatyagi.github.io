@@ -7,9 +7,9 @@
 
 ## Work Experience
 **Application Developer @ Pawani Web Technologies, WB (2023-2024)**
-- Project:- SMARTCLASS APP {EXPERIFUN/Eduvahini} ( MySql and Firebase ):- https://apps.apple.com/az/developer/experifun-educational-solutionsprivate-limited/id1607855038 
+ 
 **Application Developer @ V&V Consulting Solution LPP, Noida (2022-2023)**
-- Project:- HEALTH AND MONITORING SYSTEMS (Android Studio: Java & Firebase) (Government Private Project For Hospital Employees)
+
 **Python Developer  @ Savatarr Technology, Noida (2020-2022)**
 
 
