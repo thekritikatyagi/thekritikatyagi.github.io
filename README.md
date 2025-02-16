@@ -38,6 +38,18 @@ tutors with a simple interface and powerful functionality.
 tracking, messaging, noticeboards, and report generation. Built with a clean UI using Bootstrap for enhanced usability.
 
 
+## Certificates
+- Python (Intermediate )
+- Java (Advance)
+- Ethical hacking (Professional)
+- Cyber Security & Real time Projects (Professional)
+
+
+
+## Languages
+- Hindi & English
+
+
  
 
 
