@@ -3,7 +3,7 @@
 ### I am a skilled Mobile Application Developer with 4 years of experience in Android and Flutter, combined with Python proficiency. I excel at creating intuitive, high-performance apps and solving complex challenges through innovative solutions. Skilled in designing seamless user experiences, refining code for efficiency, and adapting features based on real-world feedback, I thrive in environments that encourage growth and collaboration. Always eager to learn and innovate, I aim to contribute to projects that push the boundaries of technology.
 
 
-## Technical Skills 
+## Technical Skills
 **Python, JAVA, FLUTTER, DART, FIREBASE, HTML5, CSS, UI/UX DESIGN, ANDROID STUDIO, VISUAL STUDIO**
 
 ## Education
