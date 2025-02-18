@@ -92,14 +92,14 @@ ul li:hover {
 }
 
 .social-links a {
-    font-size: 40px; /* Icons aur bade kar diye */
+    font-size: 40px; 
     color: #fff;
     transition: 0.3s ease-in-out;
 }
 
 .social-links a:hover {
     color: #00c6ff;
-    transform: scale(1.3); /* Hover pe aur enlarge hoga */
+    transform: scale(1.3); 
 }
 
 footer {
