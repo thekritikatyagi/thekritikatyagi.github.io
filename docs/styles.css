@@ -92,12 +92,6 @@ ul li:hover {
 }
 
 .social-links a {
-    font-size: 32px; /* Increased icon size */
-    color: #fff;
-    transition: 0.3s ease-in-out;
-}
-
-.social-links a {
     font-size: 40px; /* Icons aur bade kar diye */
     color: #fff;
     transition: 0.3s ease-in-out;
