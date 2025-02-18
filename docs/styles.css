@@ -84,6 +84,24 @@ ul li:hover {
     color: #fff;
 }
 
+.social-links {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.social-links a {
+    font-size: 32px; /* Increased icon size */
+    color: #fff;
+    transition: 0.3s ease-in-out;
+}
+
+.social-links a:hover {
+    color: #00c6ff;
+    transform: scale(1.2);
+}
+
 footer {
     text-align: center;
     padding: 15px;
@@ -100,5 +118,8 @@ footer {
     }
     section {
         padding: 10px;
+    }
+    .social-links a {
+        font-size: 28px; /* Adjust size for smaller screens */
     }
 }
