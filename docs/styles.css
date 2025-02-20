@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    width: 100%;
+    width: 80%;
     max-width: 800px; /* Adjusted for PDF-friendly width */
     background: #1e1e1e;
     padding: 30px;
