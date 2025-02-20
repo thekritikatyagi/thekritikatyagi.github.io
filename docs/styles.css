@@ -31,33 +31,40 @@ body {
         width: 210mm;
         height: 297mm;
         max-width: 100%;
-        padding: 15mm;
+        padding: 10mm;
         box-shadow: none;
         border-radius: 0;
         overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
     }
     .resume-btn, .social-links {
         display: none; /* Hide buttons and social links in PDF */
     }
     .profile-pic {
         display: block !important; /* Ensuring profile picture is included */
-        width: 80px;
-        height: 80px;
+        width: 90px;
+        height: 90px;
         margin: 5px auto;
         border-radius: 50%;
     }
     section {
         page-break-inside: avoid; /* Avoid section cuts between pages */
-        font-size: 14px; /* Reduce font size to fit in one page */
-        margin: 10px 0;
+        font-size: 12px; /* Reduce font size to fit in one page */
+        margin: 5px 0;
         padding: 5px;
     }
     h1, h2 {
-        font-size: 16px; /* Adjust heading sizes */
+        font-size: 14px; /* Adjust heading sizes */
     }
     ul li {
-        padding: 6px;
-        font-size: 12px;
+        padding: 4px;
+        font-size: 10px;
+    }
+    footer {
+        margin-top: 5px;
+        font-size: 10px;
     }
 }
 
@@ -87,7 +94,7 @@ body {
 }
 
 header {
-    padding: 20px 0;
+    padding: 15px 0;
     background: linear-gradient(135deg, #0073e6, #00c6ff);
     color: #fff;
     border-radius: 15px 15px 0 0;
@@ -124,8 +131,8 @@ h1, h2 {
 }
 
 section {
-    margin: 20px 0;
-    padding: 15px;
+    margin: 15px 0;
+    padding: 10px;
     background: #252525;
     border-radius: 10px;
     text-align: left;
@@ -139,8 +146,8 @@ ul {
 
 ul li {
     background: #2d2d2d;
-    margin: 8px 0;
-    padding: 12px;
+    margin: 5px 0;
+    padding: 8px;
     border-radius: 8px;
     transition: 0.3s;
 }
@@ -151,14 +158,14 @@ ul li:hover {
 }
 
 .social-links {
-    margin-top: 15px;
+    margin-top: 10px;
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 10px;
 }
 
 .social-links a {
-    font-size: 32px;
+    font-size: 28px;
     color: #fff;
     transition: 0.3s ease-in-out;
 }
@@ -170,11 +177,11 @@ ul li:hover {
 
 footer {
     text-align: center;
-    padding: 15px;
+    padding: 10px;
     background: linear-gradient(135deg, #0073e6, #00c6ff);
     color: #fff;
     border-radius: 0 0 15px 15px;
-    margin-top: 20px;
+    margin-top: 15px;
     font-weight: bold;
 }
 
@@ -183,10 +190,10 @@ footer {
         width: 95%;
     }
     section {
-        padding: 10px;
+        padding: 8px;
     }
     .resume-btn {
-        font-size: 16px;
-        padding: 10px 16px;
+        font-size: 14px;
+        padding: 8px 14px;
     }
 }
