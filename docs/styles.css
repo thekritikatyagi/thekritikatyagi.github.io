@@ -34,7 +34,10 @@ body {
         box-shadow: none;
         border-radius: 0;
     }
-    .resume-btn, .social-links {
+    .resume-btn {
+        display: true; /* Hide buttons and social links in PDF */
+    }
+    .social-links {
         display: none; /* Hide buttons and social links in PDF */
     }
     .profile-pic {
