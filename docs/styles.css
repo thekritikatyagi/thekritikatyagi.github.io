@@ -24,16 +24,25 @@ body {
     body {
         background: white;
         color: black;
+        margin: 0;
+        padding: 0;
     }
     .container {
-        width: 100%;
-        max-width: 800px;
-        padding: 20px;
+        width: 210mm; /* Standard A4 width */
+        height: 297mm; /* Standard A4 height */
+        max-width: 100%;
+        padding: 20mm;
         box-shadow: none;
         border-radius: 0;
     }
+    h1, h2 {
+        color: black; /* Remove blue headings for print */
+    }
     .resume-btn, .social-links {
-        display: none; /* Hide buttons and links in PDF */
+        display: none; /* Hide buttons and social icons in PDF */
+    }
+    section {
+        page-break-inside: avoid; /* Avoid section cuts between pages */
     }
 }
 
