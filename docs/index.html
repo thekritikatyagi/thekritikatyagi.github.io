@@ -7,7 +7,16 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script>
+        function downloadPDF() {
+            const element = document.querySelector('.container'); 
+             html2pdf().from(element).save('Kritika_Tyagi_Resume.pdf');
+         }
+     </script>
+
 </head>
+    
 <body>
     <div class="container">
         <header>
@@ -18,6 +27,7 @@
                 <p>Email: <a href="mailto:theroyalkritika@gmail.com">theroyalkritika@gmail.com</a></p>
                 <p>Phone: +91 8077492270</p>
             </div>
+            <button onclick="downloadPDF()" class="resume-btn">Download Resume <i class="fas fa-download"></i></button>
         </header>
          <section class="about">
             <h2>About Me</h2>
