@@ -29,26 +29,35 @@ body {
     }
     .container {
         width: 210mm;
+        height: 297mm;
         max-width: 100%;
-        padding: 20mm;
+        padding: 15mm;
         box-shadow: none;
         border-radius: 0;
+        overflow: hidden;
     }
-    .resume-btn {
-        display: true; /* Hide buttons and social links in PDF */
-    }
-    .social-links {
+    .resume-btn, .social-links {
         display: none; /* Hide buttons and social links in PDF */
     }
     .profile-pic {
-        display: block; /* Ensuring profile picture is included */
-        width: 100px;
-        height: 100px;
-        margin: 10px auto;
+        display: block !important; /* Ensuring profile picture is included */
+        width: 80px;
+        height: 80px;
+        margin: 5px auto;
         border-radius: 50%;
     }
     section {
         page-break-inside: avoid; /* Avoid section cuts between pages */
+        font-size: 14px; /* Reduce font size to fit in one page */
+        margin: 10px 0;
+        padding: 5px;
+    }
+    h1, h2 {
+        font-size: 16px; /* Adjust heading sizes */
+    }
+    ul li {
+        padding: 6px;
+        font-size: 12px;
     }
 }
 
