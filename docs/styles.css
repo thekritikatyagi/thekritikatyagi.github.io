@@ -11,8 +11,8 @@ body {
 }
 
 .container {
-    width: 80%;
-    max-width: 800px; /* Adjusted for PDF-friendly width */
+    width: 100%;
+    max-width: 800px; /* Ensuring PDF-friendly width */
     background: #1e1e1e;
     padding: 30px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
@@ -28,18 +28,21 @@ body {
         padding: 0;
     }
     .container {
-        width: 210mm; /* Standard A4 width */
-        height: 297mm; /* Standard A4 height */
+        width: 210mm;
         max-width: 100%;
         padding: 20mm;
         box-shadow: none;
         border-radius: 0;
     }
-    h1, h2 {
-        color: black; /* Remove blue headings for print */
-    }
     .resume-btn, .social-links {
-        display: none; /* Hide buttons and social icons in PDF */
+        display: none; /* Hide buttons and social links in PDF */
+    }
+    .profile-pic {
+        display: block; /* Ensuring profile picture is included */
+        width: 100px;
+        height: 100px;
+        margin: 10px auto;
+        border-radius: 50%;
     }
     section {
         page-break-inside: avoid; /* Avoid section cuts between pages */
