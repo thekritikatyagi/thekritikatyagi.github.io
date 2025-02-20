@@ -15,7 +15,6 @@ body {
     max-width: 100%; /* Ensuring PDF-friendly width */
     background: #1e1e1e;
     padding: 30px;
-    
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     border-radius: 15px;
     text-align: center;
@@ -30,7 +29,7 @@ body {
     }
     .container {
         width: 210mm;
-        max-width: 100%;
+        max-width: 1000px;
         padding: 20mm;
         margin: 20mm;
         box-shadow: none;
