@@ -2,12 +2,7 @@
 
 ### Android App Developer | Flutter App Developer
 
-Welcome to my GitHub profile! I'm a skilled Mobile Application Developer with **4 years of experience** in Android and Flutter, combined with proficiency in Python. I'm passionate about creating high-performance apps and solving complex challenges.
-
----
-
-## 🎓 **Education**
-- **M.C.A** - AKTU University (2019)
+Welcome to my GitHub profile!
 
 ---
 
@@ -43,20 +38,6 @@ Welcome to my GitHub profile! I'm a skilled Mobile Application Developer with **
 ### 4. Health and Monitoring Systems
 - **Description:** A government hospital app for efficient patient management.
 - **Key Features:** Appointment scheduling, health tracking, medical records, and real-time updates.
-
----
-
-## 📜 **Certifications**
-- Python (Intermediate)
-- Java (Advanced)
-- Ethical Hacking (Professional)
-- Cyber Security & Real-time Projects (Professional)
-
----
-
-## 🌐 **Languages**
-- Hindi
-- English
 
 ---
 
