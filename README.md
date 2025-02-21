@@ -61,8 +61,8 @@ Welcome to my GitHub profile! I'm a skilled Mobile Application Developer with **
 ---
 
 ## 📫 **Get in Touch**
-- **LinkedIn:** [Kritika's LinkedIn](https://www.linkedin.com/in/kritika-tyagi-72b01022a)
-- **Instagram:** [therajput](https://www.instagram.com/thekritikatyagi/)
+- **LinkedIn:** [Kritika Tyagi](https://www.linkedin.com/in/kritika-tyagi-72b01022a)
+- **Instagram:** [Kritika Tyagi](https://www.instagram.com/thekritikatyagi/)
 
 ---
 
